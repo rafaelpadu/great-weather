@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "front_end",
-=======
   "name": "great-weather",
->>>>>>> 953fd1216c73f21ebb85fb3a68204a8a7702fac4
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,10 +9,7 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-<<<<<<< HEAD
-=======
     "styled-components": "^5.3.0",
->>>>>>> 953fd1216c73f21ebb85fb3a68204a8a7702fac4
     "web-vitals": "^1.0.1"
   },
   "scripts": {
